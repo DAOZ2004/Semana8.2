@@ -1,0 +1,6 @@
+Realizar un componente que maneje una lista de usuarios,
+esta lista de usuarios debe mostrarse en una tabla y tener los 
+campos nombre, apellido, usuario, rol, estado 
+Por defecto el estado debe ser activo; un boton debe poder
+cambiar el estado de usuario de activo a inactivo y viceversa
+en la tabla solo se mostraran los usuarios activos.
